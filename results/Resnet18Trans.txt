@@ -1,0 +1,2 @@
+256 50 <function expResnet18Trans.<locals>.model_opt at 0x000001BCDABC5E50>
+------------ fold 1 ------------
