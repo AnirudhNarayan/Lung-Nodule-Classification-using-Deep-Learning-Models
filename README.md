@@ -164,26 +164,6 @@ python experiments.py ResnetTrans /path/to/dataset
 - [ ] Real-time inference pipeline
 - [ ] Integration with clinical workflow systems
 
-## 🤝 Contributing
 
-This project demonstrates advanced computer vision and deep learning skills suitable for:
-- **Machine Learning Engineer** positions
-- **Computer Vision Researcher** roles
-- **Medical AI** development teams
-- **Data Science** positions requiring domain expertise
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- LIDC dataset providers and annotators
-- PyTorch community for excellent deep learning framework
-- Medical imaging research community
-
----
-
-**Note**: This project demonstrates production-ready code quality with comprehensive testing, documentation, and reproducible results - essential skills for FAANG-level engineering positions.
 
 
